@@ -1,0 +1,7 @@
+servers:
+  base:
+    include: sappho-mirrorlist
+  ext:
+    include: sappho-mirrorlist
+  win32:
+    include: sappho-mirrorlist
