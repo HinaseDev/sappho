@@ -1,0 +1,5 @@
+
+http://sappho.hinasedev.repl.co/$repo/$os
+
+# $repo is the Repository Name as defined in sappho.yaml
+# $os is your platform, meaning either "linux", "darwin" or "win32"
